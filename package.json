@@ -1,6 +1,6 @@
 {
   "name": "create-ejs-tailwind",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A express, ejs, tailwind boilerplate",
   "bin": "./bin/cli.js",
   "main": "index.js",
