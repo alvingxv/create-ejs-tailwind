@@ -1,14 +1,23 @@
 {
   "name": "create-ejs-tailwind",
   "version": "1.0.0",
-  "description": "",
+  "description": "A express, ejs, tailwind boilerplate",
+  "bin": "./bin/cli.js",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
     "build": "postcss public/styles/tailwind.css -o public/styles/styles.css --watch"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alvingxv/create-ejs-tailwind"
+  },
+  "keywords": [
+    "express",
+    "ejs",
+    "tailwind"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
