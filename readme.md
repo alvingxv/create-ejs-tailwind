@@ -1,4 +1,3 @@
-# create-ejs-tailwind
 # Simple MVC with Express + EJS + TailwindCSS 
 
 > This is a starter template for MVC with Express using EJS and TailwindCSS
